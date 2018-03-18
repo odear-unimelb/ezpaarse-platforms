@@ -1,0 +1,10 @@
+10.13.196.34 QmsU8FmJYkH101X bamfordn [10/Apr/2017:15:19:40 +1000] "GET http://avmajournals.avma.org:80/toc/javma/250/8 HTTP/1.1" 200 41334
+10.13.196.35 QmsU8FmJYkH101Y bamfordn1 [10/Apr/2017:15:20:02 +1000] "GET http://avmajournals.avma.org:80/doi/pdf/10.2460/javma.250.8.909 HTTP/1.1" 200 1410034
+10.13.196.36 6sjw3N6IWR5CIlt ahee [07/Mar/2018:12:13:25 +1100] "GET https://avmajournals.avma.org:443/doi/abs/10.2460/javma.251.1.80 HTTP/1.1" 200 28808
+10.13.196.34 qii1RbcPt80AMz5 ahee [07/Mar/2018:12:13:35 +1100] "GET https://avmajournals.avma.org:443/doi/full/10.2460/javma.251.1.80 HTTP/1.1" 200 92615
+10.12.128.88 cctxWGLA9l37D5M sanderson2 [07/Mar/2018:19:18:03 +1100] "GET https://avmajournals.avma.org:443/doi/pdf/10.2460/javma.2004.225.1727 HTTP/1.1" 200 246420
+10.13.196.37 1LfYWvJgYBJKGnP sbigby [08/Mar/2018:02:39:43 +1100] "GET https://avmajournals.avma.org:443/loi/ajvr?open=2014 HTTP/1.1" 200 18425
+10.13.196.34 1LfYWvJgYBJKGnP sbigby [08/Mar/2018:02:52:40 +1100] "GET https://avmajournals.avma.org:443/action/showCitFormats?doi=10.2460%2Fjavma.252.5.565 HTTP/1.1" 200 18425
+10.13.196.34 1LfYWvJgYBJKGnF odear [08/Mar/2018:02:52:40 +1100] "GET https://avmajournals.avma.org:443/doi/suppl/10.2460/javma.249.3.299/suppl_file/endocone_javma.mp4 HTTP/1.1" 200 18425
+10.13.196.34 1LfYWvJgYBJKGnD robertj [08/Mar/2018:02:52:40 +1100] "GET https://avmajournals.avma.org:443/doi/suppl/10.2460/javma.249.3.299 HTTP/1.1" 200 18425
+10.13.196.34 1LfYWvJgYBJKGnG sbigby [08/Mar/2018:02:52:40 +1100] "GET http://avmajournals.avma.org:80/doi/suppl/10.2460/javma.250.1.86/suppl_file/supplemental_appendix_s2_vin_survey.pdf HTTP/1.1" 200 18425
